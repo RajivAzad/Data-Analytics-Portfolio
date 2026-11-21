@@ -4,7 +4,7 @@
 
 Rajiv Azad
 
-**Exploratory Data Analysis (EDA) with the Sales Dataset using Pandas,and Matplotlib Seaborn**.
+**1.Exploratory Data Analysis (EDA) with the Sales Dataset using Pandas,and Matplotlib Seaborn**.
 
 **Overview**
 
