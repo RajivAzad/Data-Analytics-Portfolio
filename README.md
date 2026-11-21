@@ -8,7 +8,7 @@ Rajiv Azad
 
 Python, Pandas, Matplotlib, Seaborn, Azure Blob Storage, Scikit-learn, Numpy
 
-**1.Exploratory Data Analysis (EDA) with the Sales Dataset using Pandas,and Matplotlib Seaborn**.
+**Project 1.Exploratory Data Analysis (EDA) with the Sales Dataset using Pandas,and Matplotlib Seaborn**.
 
 **Overview**
 
@@ -36,7 +36,7 @@ Data cleaning with Pandas
 ,Pivot table creation
 ,Business data reporting techniques
 
-**2.Predicting House Prices Using Multiple Linear Regression and Random Forest**
+**Project 2.Predicting House Prices Using Multiple Linear Regression and Random Forest**
 
 **Introduction**
 
