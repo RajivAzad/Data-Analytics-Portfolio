@@ -11,8 +11,6 @@ Rajiv Azad
 This project demonstrates fundamental data analysis and visualization techniques using Python. The analysis is performed on a sales dataset to explore trends, identify patterns, detect outliers, and generate business insights.
 The project covers:
 
-Descriptive statistics, Data cleaning, and filtering, Exploratory Data Analysis (EDA), Data visualization, Correlation analysis, Group By aggregations, Pivot tables
-
 **Technologies Used**
 
 Python
