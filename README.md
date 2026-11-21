@@ -4,13 +4,6 @@
 
 Rajiv Azad
 
-**1.Exploratory Data Analysis (EDA) with the Sales Dataset using Pandas,and Matplotlib Seaborn**.
-
-**Overview**
-
-This project demonstrates fundamental data analysis and visualization techniques using Python. The analysis is performed on a sales dataset to explore trends, identify patterns, detect outliers, and generate business insights.
-The project covers:
-
 **Technologies Used**
 
 Python
@@ -18,6 +11,12 @@ Python
 **Required Libraries**
 
 Pandas, Matplotlib, Seaborn
+
+**1.Exploratory Data Analysis (EDA) with the Sales Dataset using Pandas,and Matplotlib Seaborn**.
+
+**Overview**
+
+This project demonstrates fundamental data analysis and visualization techniques using Python. The analysis is performed on a sales dataset to explore trends, identify patterns, detect outliers, and generate business insights.
 
 **Visualizations**
 
