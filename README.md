@@ -1,84 +1,46 @@
 # Data-Analytics-Portfolio
 
-Author
+**Author**
 
 Rajiv Azad
 
-Exploratory Data Analysis (EDA) with the Sales Dataset using Pandas,and Matplotlib Seaborn.
+**Exploratory Data Analysis (EDA) with the Sales Dataset using Pandas,and Matplotlib Seaborn**.
 
-Overview
+**Overview**
 
 This project demonstrates fundamental data analysis and visualization techniques using Python. The analysis is performed on a sales dataset to explore trends, identify patterns, detect outliers, and generate business insights.
 The project covers:
 
-•	Descriptive statistics
+Descriptive statistics, Data cleaning, and filtering, Exploratory Data Analysis (EDA), Data visualization, Correlation analysis, Group By aggregations, Pivot tables
 
-•	Data cleaning and filtering
-
-•	Exploratory Data Analysis (EDA)
-
-•	Data visualization
-
-•	Correlation analysis
-
-•	Group By aggregations
-
-•	Pivot tables
-
-Technologies Used
+**Technologies Used**
 
 •	Python
 
-Required Libraries
+**Required Libraries**
 
-•	Pandas
+Pandas, Matplotlib, Seaborn
 
-•	Matplotlib
-
-•	Seaborn
-
-Visualizations
+**Visualizations**
 
 The project generates:
 
-•	Sales Distribution Histogram
+Sales Distribution Histogram, Quantity vs Sales Scatter Plot, Sales Trend Line Chart, Sales Outlier Detection Plot, Correlation Heatmap
 
-•	Quantity vs Sales Scatter Plot
+**Key Insights**
 
-•	Sales Trend Line Chart
+Understand overall sales performance, identify unusual sales outliers, evaluate relationships between sales and quantity sold, compare product category performance, analyse country-wise sales patterns.
 
-•	Sales Outlier Detection Plot
-
-•	Correlation Heatmap
-
-Key Insights
-
-•	Understand overall sales performance.
-
-•	Identify unusual sales outliers.
-
-•	Evaluate relationships between sales and quantity sold.
-
-•	Compare product category performance.
-
-•	Analyse country-wise sales patterns.
-
-Learning Outcomes
+**Learning Outcomes**
 
 Through this project, you will learn:
 
-•	Data cleaning with Pandas
-
-•	Exploratory Data Analysis (EDA)
-
-•	Data visualization using Matplotlib and Seaborn
-
-•	Correlation analysis
-
-•	Group By operations
-
-•	Pivot table creation
-
-•	Business data reporting techniques
+Data cleaning with Pandas
+,Exploratory Data Analysis (EDA)
+,Data visualization using Matplotlib and Seaborn
+,Correlation analysis
+,Group By operations
+,Pivot table creation
+,Business data reporting techniques
 
 
