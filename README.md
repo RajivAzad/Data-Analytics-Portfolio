@@ -15,7 +15,7 @@ Descriptive statistics, Data cleaning, and filtering, Exploratory Data Analysis 
 
 **Technologies Used**
 
-•	Python
+Python
 
 **Required Libraries**
 
